@@ -12,4 +12,4 @@ You can answer the following prompt to generate a randomized password between 8 
 ![03-javascript-homework-demo](https://user-images.githubusercontent.com/110949754/193645444-b8ae9e03-3c80-4b9b-8d64-1fcaf79779f0.png)
 
 # Link to Deployed Application
-
+https://mar-ramg.github.io/My-First-Password-Generator/ 
